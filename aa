@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>公司信息表</title>
+</head>
+<body>
+	<br>	<br>	<br>	<br>	<br>
+	<a href=200部门表.php style="font-size:40px;margin-left:600px">部门表</a>
+	<br>	<br>	<br>	<br>	<br>
+  	<a href=300员工表.php style="font-size:40px;margin-left:600px">员工表</a>
+</body>
+</html>
